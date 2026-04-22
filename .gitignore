@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Neo4j runtime data
+data/
+plugins/
+
+# local imports / datasets
+import/*.csv
+
+# optional temp files
+*.log
